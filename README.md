@@ -68,10 +68,10 @@ This assignment should prove that a student is able to:
 
 All the tasks in the requirements are related to the index.html file! Consider "Jon Doe" to be replaced with your real first and last name.
 
-- [ ] Create an html file with the name of "index" in the root of the project
-- [ ] Add HTML Boilerplate to the document
-- [ ] Set the document title to be "Jon Doe's resume".
-- [ ] Set the page heading to be "Jon Doe"
+- [x] Create an html file with the name of "index" in the root of the project
+- [x] Add HTML Boilerplate to the document
+- [x] Set the document title to be "Jon Doe's resume".
+- [x] Set the page heading to be "Jon Doe"
 - [ ] Add a section heading with the content of "Talented Frontend developer" that represents the desired role.
 - [ ] Add an image with required and important attributes
   - [ ] The image path should be `https://randomuser.me/api/portraits/men/20.jpg`. Feel free to change the number in the file name to get a new image.
@@ -92,12 +92,12 @@ All the tasks in the requirements are related to the index.html file! Consider "
 
 ### Part 2: Testing the magic of id and class attributes
 
-- [ ] In the head section connect the CSS file, available by the following path: `./css/styles.css`.
-- [ ] In the head section connect a JS file, available by the following path: `./js/scripts.js`. Make sure it will be executed after the html is parsed.
-- [ ] The page heading should have the id of "candidate-name"
-- [ ] The desired role section heading should the id of "candidate-desired-role"
+- [x] In the head section connect the CSS file, available by the following path: `./css/styles.css`.
+- [x] In the head section connect a JS file, available by the following path: `./js/scripts.js`. Make sure it will be executed after the html is parsed.
+- [x] The page heading should have the id of "candidate-name"
+- [x] The desired role section heading should the id of "candidate-desired-role"
 - [ ] The "About me" section heading should have an id of "about-me".
-- [ ] The image should have the id of "candidate-image"
+- [x] The image should have the id of "candidate-image"
 - [ ] The bio paragraph should have a class name of "candidate-bio"
 - [ ] The skills section heading should have the id of "skills"
 - [ ] The skills list should have the id of "skills-list"
