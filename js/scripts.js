@@ -13,6 +13,7 @@ if (fancyBody) {
   const contactsHeader = document.getElementById('contacts');
   const contactsTable = document.querySelector('.contacts-table');
 
+
   const nameArr = profileName.innerText.split(' ');
   console.log(nameArr);
 
